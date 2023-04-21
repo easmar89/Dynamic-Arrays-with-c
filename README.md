@@ -25,3 +25,7 @@ The dynamic array implementation in this exercise provides the following functio
 - Understanding how arrays work in C.
 - Understanding how dynamic arrays are implemented in higher level languages, and how the memory is managed.
 - Understanding pointers, void pointers and structs in C.
+
+<br>
+
+> This is one exercise in a series of exercises aiming to learn how things work under the hood, as well as get some practice working with the C language.
